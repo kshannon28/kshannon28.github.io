@@ -1,4 +1,4 @@
-#Exercise 1
+#kshannon28.github.io
 #**Hello**
 
 My name is Kelsey
@@ -9,5 +9,5 @@ I **love** puppies
 
 I go to [Coastal Carolina University](www.coastal.edu)
 
-<html> <li><marquee behavior="slide" direction="left">Myrtle Beach, SC</marquee></li> </html>
+<dt><marquee behavior="slide" direction="left">Myrtle Beach, SC</marquee></dt>
  
