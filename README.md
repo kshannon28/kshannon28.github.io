@@ -10,4 +10,4 @@ I **love** puppies
 I go to [Coastal Carolina University](www.coastal.edu)
 
 <dt><marquee behavior="slide" direction="left">Myrtle Beach, SC</marquee></dt>
- <dd>Is something people use sometimes.</dd>
+ 
